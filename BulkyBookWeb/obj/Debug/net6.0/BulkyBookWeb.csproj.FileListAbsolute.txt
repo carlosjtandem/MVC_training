@@ -379,3 +379,5 @@ C:\Users\Usuario\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\w
 C:\Users\Usuario\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Usuario\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Usuario\source\repos\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CopyComplete
+C:\Users\Usuario\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Usuario\source\repos\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
